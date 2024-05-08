@@ -14,7 +14,7 @@ function Header({OpenSidebar}) {
         </div>
         Fluvia Vision 0.0.1 Alpha
         <div className='header-right'>iCONS_Menu
-            <BsFillBellFill className='icon'/>Notifications
+            <BsFillBellFill className='icon'/>Notifications</br>
             <BsFillEnvelopeFill className='icon'/>Buzon
             <BsPersonCircle className='icon'/> Perfil
         </div>

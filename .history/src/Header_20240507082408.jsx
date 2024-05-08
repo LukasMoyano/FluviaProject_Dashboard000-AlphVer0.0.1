@@ -12,11 +12,10 @@ function Header({OpenSidebar}) {
         <div className='header-left'>
             <BsSearch  className='icon'/>
         </div>
-        Fluvia Vision 0.0.1 Alpha
-        <div className='header-right'>iCONS_Menu
-            <BsFillBellFill className='icon'/>Notifications
-            <BsFillEnvelopeFill className='icon'/>Buzon
-            <BsPersonCircle className='icon'/> Perfil
+        <div className='header-right'>
+            <BsFillBellFill className='icon'/>
+            <BsFillEnvelopeFill className='icon'/>
+            <BsPersonCircle className='icon'/>
         </div>
     </header>
   )
